@@ -1196,4 +1196,942 @@
 [2015.10.08-23.17.27:425][977]LogSavePackage: Moving '../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Saved/MansionMap23247C91406D113DC9CA9395766896CF.tmp' to '../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/Maps/MansionMap.umap'
 [2015.10.08-23.17.27:425][977]LogSavePackage: Total save time: 250.551943ms
 [2015.10.08-23.17.27:425][977]LogSavePackage:Warning: Finished SavePackage ../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/Maps/MansionMap.umap
-[2015.10.08-23.17.27
+[2015.10.08-23.17.27:451][977]LogFileHelpers: Saving map 'MansionMap' took 0.765
+[2015.10.08-23.17.31:260][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MansionMap" FILE="../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/Maps/MansionMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.10.08-23.17.31:463][227]LogSavePackage: Save=171.036194ms
+[2015.10.08-23.17.31:463][227]LogSavePackage: Moving '../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Saved/MansionMap6A12182C495DBB2AF6AD4799C23A0E11.tmp' to '../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/Maps/MansionMap.umap'
+[2015.10.08-23.17.31:464][227]LogSavePackage: Total save time: 185.400132ms
+[2015.10.08-23.17.31:464][227]LogSavePackage:Warning: Finished SavePackage ../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/Maps/MansionMap.umap
+[2015.10.08-23.17.34:250][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WhiteBox" FILE="../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/WhiteBox.uasset" SILENT=true
+[2015.10.08-23.17.34:274][414]LogSavePackage: Save=8.310102ms
+[2015.10.08-23.17.34:274][414]LogSavePackage: Moving '../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Saved/WhiteBoxB307FD41455F0781098A208DAEB72D8B.tmp' to '../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/WhiteBox.uasset'
+[2015.10.08-23.17.34:275][414]LogSavePackage: Total save time: 9.361438ms
+[2015.10.08-23.17.34:275][414]LogSavePackage:Warning: Finished SavePackage ../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/WhiteBox.uasset
+[2015.10.08-23.17.34:293][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GreyBox" FILE="../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/GreyBox.uasset" SILENT=true
+[2015.10.08-23.17.34:302][414]LogSavePackage: Save=8.712748ms
+[2015.10.08-23.17.34:302][414]LogSavePackage: Moving '../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Saved/GreyBoxC10F0C134F925791E66A1F9CC833F922.tmp' to '../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/GreyBox.uasset'
+[2015.10.08-23.17.34:303][414]LogSavePackage: Total save time: 9.802628ms
+[2015.10.08-23.17.34:303][414]LogSavePackage:Warning: Finished SavePackage ../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/GreyBox.uasset
+[2015.10.08-23.27.35:483][ 62]Cmd: EDIT COPY
+[2015.10.08-23.27.35:815][ 94]Cmd: EDIT PASTE
+[2015.10.08-23.28.08:732][208]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2015.10.08-23.28.43:662][208]LogSavePackage: Save=216.363190ms
+[2015.10.08-23.28.43:662][208]LogSavePackage: Moving '../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Saved/MansionMap_Auto1999DD7354EA75DAD7368E7AA4A11DFCA.tmp' to '../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Saved/Autosaves/Game/Maps/MansionMap_Auto1.umap'
+[2015.10.08-23.28.43:663][208]LogSavePackage: Total save time: 220.246002ms
+[2015.10.08-23.28.43:663][208]LogSavePackage:Warning: Finished SavePackage ../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Saved/Autosaves/Game/Maps/MansionMap_Auto1.umap
+[2015.10.08-23.28.43:663][208]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MansionMap' took 0.233
+[2015.10.08-23.28.43:663][208]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.233
+[2015.10.08-23.31.51:498][599]LogMaterial: Missing cached shader map for material GreyBoxHole, compiling. 
+[2015.10.08-23.33.19:620][ 97]LogMaterial: Missing cached shader map for material GreyBoxHole, compiling. 
+[2015.10.08-23.33.19:673][ 97]LogMaterial: Missing cached shader map for material GreyBoxHole, compiling. 
+[2015.10.08-23.33.19:679][ 97]LogMaterial: 0.000025 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.33.19:705][ 97]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2015.10.08-23.33.20:715][168]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.33.20:715][168]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.33.20:715][168]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.33.20:715][168]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.33.25:326][592]LogMaterial: Missing cached shader map for material GreyBoxHole, compiling. 
+[2015.10.08-23.33.25:332][592]LogMaterial: 0.000054 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.33.25:887][642]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.33.25:887][642]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.33.25:887][642]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.33.25:887][642]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.33.48:201][ 28]LogMaterial: Missing cached shader map for material GreyBoxHole, compiling. 
+[2015.10.08-23.33.48:211][ 28]LogMaterial: Missing cached shader map for material GreyBoxHole, compiling. 
+[2015.10.08-23.33.48:217][ 28]LogMaterial: 0.000036 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.33.49:194][107]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.33.49:194][107]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.33.49:194][107]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.33.49:194][107]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.33.53:485][457]LogMaterial: Missing cached shader map for material GreyBoxHole, compiling. 
+[2015.10.08-23.33.53:516][457]LogMaterial: 0.000084 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.33.54:357][514]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.33.54:357][514]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.33.54:357][514]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.33.54:357][514]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.34.24:003][958]LogMaterialEditor: Applying material GreyBoxHole
+[2015.10.08-23.34.24:591][958]LogMaterial: Missing cached shader map for material GreyBoxHole, compiling. 
+[2015.10.08-23.34.24:634][958]LogMaterial: 0.000082 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.34.24:657][958]LogMaterial: Missing cached shader map for material GreyBoxHole, compiling. 
+[2015.10.08-23.34.24:748][958]LogMaterial: Missing cached shader map for material GreyBoxHole, compiling. 
+[2015.10.08-23.34.24:800][958]LogMaterial: 0.001154 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.34.26:472][ 51]LogMaterialEditor: Saving and Compiling material GreyBoxHole
+[2015.10.08-23.34.30:641][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GreyBoxHole" FILE="../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/GreyBoxHole.uasset" SILENT=true
+[2015.10.08-23.34.30:650][ 51]LogSavePackage: Save=8.750994ms
+[2015.10.08-23.34.30:650][ 51]LogSavePackage: Moving '../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Saved/GreyBoxHoleEBB516DB43EFFEB923CA9393A625EC5F.tmp' to '../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/GreyBoxHole.uasset'
+[2015.10.08-23.34.30:651][ 51]LogSavePackage: Total save time: 9.764988ms
+[2015.10.08-23.34.30:651][ 51]LogSavePackage:Warning: Finished SavePackage ../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/GreyBoxHole.uasset
+[2015.10.08-23.34.30:656][ 51]MaterialEditorStats: Info Base pass shader with static lighting: 92 instructions
+[2015.10.08-23.34.30:656][ 51]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 60 instructions
+[2015.10.08-23.34.30:656][ 51]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.34.30:656][ 51]MaterialEditorStats: Info Texture samplers: 4/16
+[2015.10.08-23.34.44:137][133]LogMaterial: 0.001182 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.34.44:155][134]Cmd: UpdateLandscapeEditorData
+[2015.10.08-23.34.44:155][134]Cmd: UpdateLandscapeMIC
+[2015.10.08-23.34.46:498][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MansionMap" FILE="../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/Maps/MansionMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.10.08-23.34.46:729][364]LogSavePackage: Save=199.619217ms
+[2015.10.08-23.34.46:729][364]LogSavePackage: Moving '../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Saved/MansionMapBE8BC1AC42B7769C5E0CCC96FB1EEEB2.tmp' to '../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/Maps/MansionMap.umap'
+[2015.10.08-23.34.46:730][364]LogSavePackage: Total save time: 220.683284ms
+[2015.10.08-23.34.46:730][364]LogSavePackage:Warning: Finished SavePackage ../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/Maps/MansionMap.umap
+[2015.10.08-23.35.37:914][ 75]LogMaterial: 0.001117 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.35.37:930][ 76]Cmd: UpdateLandscapeEditorData
+[2015.10.08-23.35.37:930][ 76]Cmd: UpdateLandscapeMIC
+[2015.10.08-23.36.02:765][961]Cmd: TRANSACTION UNDO
+[2015.10.08-23.36.02:765][961]LogEditorTransaction: Undo Edit Landscape Hole Material
+[2015.10.08-23.36.02:814][961]PIE:Warning: Warning AttachTo: '/Game/Maps/MansionMap.MansionMap:PersistentLevel.LandscapeGizmoActiveActor_0.GizmoRendererComponent0' is not static , cannot attach '/Game/Maps/MansionMap.MansionMap:PersistentLevel.LandscapeGizmoActiveActor_0.RootComponent0' which is static to it. Aborting.
+[2015.10.08-23.36.02:818][961]LogMaterial: Missing cached shader map for material WhiteBox, compiling. 
+[2015.10.08-23.36.02:824][961]LogMaterial: 0.000069 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.36.02:828][961]LogMaterial: Missing cached shader map for material GreyBox, compiling. 
+[2015.10.08-23.36.02:834][961]LogMaterial: 0.000061 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.36.02:850][961]LogMaterial: Missing cached shader map for material GreyBoxHole, compiling. 
+[2015.10.08-23.36.02:863][961]LogMaterial: 0.000073 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.36.02:885][962]Cmd: UpdateLandscapeEditorData
+[2015.10.08-23.36.03:848][  6]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.36.03:848][  6]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.36.03:848][  6]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.36.03:848][  6]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.36.04:257][ 28]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.36.04:257][ 28]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.36.04:257][ 28]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.36.04:257][ 28]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.36.04:963][ 67]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.36.04:963][ 67]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.36.04:963][ 67]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.36.04:963][ 67]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.36.08:755][395]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2015.10.08-23.36.12:431][637]LogMaterial: 0.001083 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.36.12:447][638]Cmd: UpdateLandscapeEditorData
+[2015.10.08-23.36.12:448][638]Cmd: UpdateLandscapeMIC
+[2015.10.08-23.36.14:315][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MansionMap" FILE="../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/Maps/MansionMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.10.08-23.36.14:513][805]LogSavePackage: Save=181.261047ms
+[2015.10.08-23.36.14:513][805]LogSavePackage: Moving '../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Saved/MansionMap9FBC40EB423750CA5E4A68A957D52AF9.tmp' to '../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/Maps/MansionMap.umap'
+[2015.10.08-23.36.14:515][805]LogSavePackage: Total save time: 183.036055ms
+[2015.10.08-23.36.14:515][805]LogSavePackage:Warning: Finished SavePackage ../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/Maps/MansionMap.umap
+[2015.10.08-23.36.17:893][ 37]LogMaterial: 0.001457 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.36.17:909][ 38]Cmd: UpdateLandscapeEditorData
+[2015.10.08-23.36.17:909][ 38]Cmd: UpdateLandscapeMIC
+[2015.10.08-23.36.19:699][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MansionMap" FILE="../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/Maps/MansionMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.10.08-23.36.19:888][191]LogSavePackage: Save=177.577911ms
+[2015.10.08-23.36.19:888][191]LogSavePackage: Moving '../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Saved/MansionMap0D35E106471244A81C767D8983AC5D6D.tmp' to '../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/Maps/MansionMap.umap'
+[2015.10.08-23.36.19:890][191]LogSavePackage: Total save time: 179.370686ms
+[2015.10.08-23.36.19:890][191]LogSavePackage:Warning: Finished SavePackage ../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/Maps/MansionMap.umap
+[2015.10.08-23.36.24:218][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MansionMap" FILE="../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/Maps/MansionMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.10.08-23.36.24:406][581]LogSavePackage: Save=174.868103ms
+[2015.10.08-23.36.24:406][581]LogSavePackage: Moving '../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Saved/MansionMap6B48019848D85B016AB873A14AC1373A.tmp' to '../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/Maps/MansionMap.umap'
+[2015.10.08-23.36.24:407][581]LogSavePackage: Total save time: 176.302809ms
+[2015.10.08-23.36.24:407][581]LogSavePackage:Warning: Finished SavePackage ../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/Maps/MansionMap.umap
+[2015.10.08-23.36.55:703][606]LogMaterial: 0.001121 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.36.55:717][607]Cmd: UpdateLandscapeEditorData
+[2015.10.08-23.36.55:717][607]Cmd: UpdateLandscapeMIC
+[2015.10.08-23.36.58:791][788]LogMaterial: 0.001330 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.36.58:807][789]Cmd: UpdateLandscapeEditorData
+[2015.10.08-23.36.58:807][789]Cmd: UpdateLandscapeMIC
+[2015.10.08-23.37.02:729][ 21]LogMaterial: 0.001381 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.37.02:744][ 22]Cmd: UpdateLandscapeEditorData
+[2015.10.08-23.37.02:744][ 22]Cmd: UpdateLandscapeMIC
+[2015.10.08-23.37.40:008][  6]LogMaterial: 0.001271 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.37.40:025][  7]Cmd: UpdateLandscapeEditorData
+[2015.10.08-23.37.40:025][  7]Cmd: UpdateLandscapeMIC
+[2015.10.08-23.37.41:299][ 95]LogMaterial: 0.001138 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.37.41:317][ 96]Cmd: UpdateLandscapeEditorData
+[2015.10.08-23.37.41:317][ 96]Cmd: UpdateLandscapeMIC
+[2015.10.08-23.39.15:716][306]Cmd: UpdateLandscapeEditorData
+[2015.10.08-23.39.18:174][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MansionMap" FILE="../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/Maps/MansionMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.10.08-23.39.18:363][541]LogSavePackage: Save=177.764313ms
+[2015.10.08-23.39.18:363][541]LogSavePackage: Moving '../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Saved/MansionMapD7893F6E4876A6B39268F8B6BEC0E3CB.tmp' to '../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/Maps/MansionMap.umap'
+[2015.10.08-23.39.18:365][541]LogSavePackage: Total save time: 179.712199ms
+[2015.10.08-23.39.18:365][541]LogSavePackage:Warning: Finished SavePackage ../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/Maps/MansionMap.umap
+[2015.10.08-23.39.30:215][669]Cmd: UpdateLandscapeEditorData
+[2015.10.08-23.40.17:233][689]LogTexture:Display: Building textures: Texture2D_8 (BGRA8)
+[2015.10.08-23.40.17:239][689]LogMaterial: Missing cached shader map for material GreyBoxHole, compiling. 
+[2015.10.08-23.40.17:282][689]LogMaterial: 0.002138 seconds spent updating 1 materials, 1 interfaces, 1 instances, 1 with static permutations.
+[2015.10.08-23.40.25:152][174]Cmd: TRANSACTION UNDO
+[2015.10.08-23.40.25:152][174]LogEditorTransaction: Undo Landscape Editing: Visibility
+[2015.10.08-23.40.25:153][174]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_0) Component already registered.
+[2015.10.08-23.40.25:154][174]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.Landscape_0.LandscapeComponent_2) Component already registered.
+[2015.10.08-23.40.25:154][174]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_2) Component already registered.
+[2015.10.08-23.40.25:162][174]PIE:Warning: Warning AttachTo: '/Game/Maps/MansionMap.MansionMap:PersistentLevel.LandscapeGizmoActiveActor_0.GizmoRendererComponent0' is not static , cannot attach '/Game/Maps/MansionMap.MansionMap:PersistentLevel.LandscapeGizmoActiveActor_0.RootComponent0' which is static to it. Aborting.
+[2015.10.08-23.40.25:168][174]LogMaterial: Missing cached shader map for material WhiteBox, compiling. 
+[2015.10.08-23.40.25:174][174]LogMaterial: 0.000067 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.40.25:178][174]LogMaterial: Missing cached shader map for material GreyBox, compiling. 
+[2015.10.08-23.40.25:185][174]LogMaterial: 0.000061 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.40.25:189][174]LogMaterial: Missing cached shader map for material GreyBoxHole, compiling. 
+[2015.10.08-23.40.25:199][174]LogMaterial: 0.000080 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.40.25:223][175]Cmd: UpdateLandscapeEditorData
+[2015.10.08-23.40.25:732][202]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.40.25:732][202]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.40.25:732][202]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.40.25:732][202]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.40.26:170][225]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.40.26:170][225]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.40.26:170][225]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.40.26:170][225]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.40.26:870][261]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.40.26:870][261]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.40.26:870][261]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.40.26:870][261]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.40.40:375][615]LogTexture:Display: Building textures: Texture2D_9 (BGRA8)
+[2015.10.08-23.41.26:588][458]LogGeometryMode:Warning: Unable to find BoxBrush11 Brush(s) in new BSP
+[2015.10.08-23.41.26:588][458]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2015.10.08-23.41.56:522][587]LogGeometryMode:Warning: Unable to find BoxBrush15_51 Brush(s) in new BSP
+[2015.10.08-23.41.56:522][587]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2015.10.08-23.42.03:027][272]LogGeometryMode:Warning: Unable to find CurvedStairBrush Brush(s) in new BSP
+[2015.10.08-23.42.03:027][272]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2015.10.08-23.42.09:072][935]LogGeometryMode:Warning: Unable to find BoxBrush14 Brush(s) in new BSP
+[2015.10.08-23.42.09:072][935]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2015.10.08-23.42.16:468][711]LogGeometryMode:Warning: Unable to find BoxBrush38 Brush(s) in new BSP
+[2015.10.08-23.42.16:468][711]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2015.10.08-23.42.21:272][237]Cmd: DELETE
+[2015.10.08-23.42.21:369][237]Cmd: ACTOR DELETE
+[2015.10.08-23.42.21:372][237]LogEditorActor: Deleted Actor: Brush
+[2015.10.08-23.42.21:469][237]LogEditorActor: Deleted 1 Actors (0.100 secs)
+[2015.10.08-23.42.51:547][297]LogGeometryMode:Warning: Unable to find BoxBrush11 Brush(s) in new BSP
+[2015.10.08-23.42.51:547][297]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2015.10.08-23.42.55:338][692]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2015.10.08-23.43.15:903][756]Cmd: TRANSACTION UNDO
+[2015.10.08-23.43.15:903][756]LogEditorTransaction: Undo Move Actors
+[2015.10.08-23.43.15:921][756]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush9.BrushComponent0) Component already registered.
+[2015.10.08-23.43.15:972][756]LogGeometryMode:Warning: Unable to find 1 Poly(s) in new BSP
+[2015.10.08-23.43.15:972][756]LogGeometryMode:Warning: Unable to resolve BoxBrush11 Brush in new BSP, see above
+[2015.10.08-23.43.15:972][756]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2015.10.08-23.43.15:983][756]LogMaterial: Missing cached shader map for material WhiteBox, compiling. 
+[2015.10.08-23.43.15:989][756]LogMaterial: 0.000054 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.43.15:993][756]LogMaterial: Missing cached shader map for material GreyBox, compiling. 
+[2015.10.08-23.43.16:013][756]LogMaterial: 0.000058 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.43.16:018][756]LogMaterial: Missing cached shader map for material GreyBoxHole, compiling. 
+[2015.10.08-23.43.16:029][756]LogMaterial: 0.000073 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.43.17:039][810]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.43.17:039][810]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.43.17:039][810]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.43.17:039][810]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.43.17:391][825]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.43.17:391][825]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.43.17:391][825]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.43.17:391][825]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.43.18:119][859]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.43.18:119][859]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.43.18:119][859]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.43.18:119][859]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.43.25:736][601]Cmd: TRANSACTION UNDO
+[2015.10.08-23.43.25:736][601]LogEditorTransaction: Undo Move Actors
+[2015.10.08-23.43.25:754][601]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush9.BrushComponent0) Component already registered.
+[2015.10.08-23.43.25:814][601]LogGeometryMode:Warning: Unable to find 1 Poly(s) in new BSP
+[2015.10.08-23.43.25:814][601]LogGeometryMode:Warning: Unable to resolve BoxBrush11 Brush in new BSP, see above
+[2015.10.08-23.43.25:814][601]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2015.10.08-23.43.25:826][601]LogMaterial: Missing cached shader map for material WhiteBox, compiling. 
+[2015.10.08-23.43.25:832][601]LogMaterial: 0.000056 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.43.25:836][601]LogMaterial: Missing cached shader map for material GreyBox, compiling. 
+[2015.10.08-23.43.25:842][601]LogMaterial: 0.000061 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.43.25:847][601]LogMaterial: Missing cached shader map for material GreyBoxHole, compiling. 
+[2015.10.08-23.43.25:863][601]LogMaterial: 0.000095 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.43.26:413][622]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.43.26:413][622]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.43.26:413][622]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.43.26:413][622]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.43.26:835][641]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.43.26:835][641]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.43.26:835][641]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.43.26:835][641]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.43.27:521][675]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.43.27:521][675]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.43.27:521][675]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.43.27:521][675]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.43.33:935][279]Cmd: TRANSACTION UNDO
+[2015.10.08-23.43.33:935][279]LogEditorTransaction: Undo Move Actors
+[2015.10.08-23.43.33:954][279]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush9.BrushComponent0) Component already registered.
+[2015.10.08-23.43.34:009][279]LogGeometryMode:Warning: Unable to find 1 Poly(s) in new BSP
+[2015.10.08-23.43.34:009][279]LogGeometryMode:Warning: Unable to resolve BoxBrush11 Brush in new BSP, see above
+[2015.10.08-23.43.34:009][279]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2015.10.08-23.43.34:023][279]LogMaterial: Missing cached shader map for material WhiteBox, compiling. 
+[2015.10.08-23.43.34:030][279]LogMaterial: 0.000055 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.43.34:034][279]LogMaterial: Missing cached shader map for material GreyBox, compiling. 
+[2015.10.08-23.43.34:040][279]LogMaterial: 0.000068 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.43.34:045][279]LogMaterial: Missing cached shader map for material GreyBoxHole, compiling. 
+[2015.10.08-23.43.34:055][279]LogMaterial: 0.000067 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.43.34:608][302]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.43.34:608][302]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.43.34:608][302]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.43.34:608][302]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.43.35:039][322]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.43.35:039][322]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.43.35:039][322]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.43.35:039][322]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.43.35:709][357]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.43.35:709][357]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.43.35:709][357]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.43.35:709][357]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.43.42:474][  2]Cmd: DELETE
+[2015.10.08-23.43.42:474][  2]LogGeometryMode:Warning: Unable to find 1 Poly(s) in new BSP
+[2015.10.08-23.43.42:474][  2]LogGeometryMode:Warning: Unable to resolve BoxBrush11 Brush in new BSP, see above
+[2015.10.08-23.43.42:474][  2]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2015.10.08-23.43.43:876][144]Cmd: TRANSACTION UNDO
+[2015.10.08-23.43.43:876][144]LogEditorTransaction: Undo Modifier [Delete]
+[2015.10.08-23.43.43:893][144]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.CurvedStairBrush2.BrushComponent0) Component already registered.
+[2015.10.08-23.43.43:915][144]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush30_66.BrushComponent0) Component already registered.
+[2015.10.08-23.43.43:964][144]LogMaterial: Missing cached shader map for material WhiteBox, compiling. 
+[2015.10.08-23.43.43:971][144]LogMaterial: 0.000059 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.43.43:974][144]LogMaterial: Missing cached shader map for material GreyBox, compiling. 
+[2015.10.08-23.43.43:981][144]LogMaterial: 0.000057 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.43.43:985][144]LogMaterial: Missing cached shader map for material GreyBoxHole, compiling. 
+[2015.10.08-23.43.43:996][144]LogMaterial: 0.000477 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.43.44:554][169]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.43.44:554][169]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.43.44:554][169]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.43.44:555][169]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.43.44:943][188]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.43.44:944][188]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.43.44:944][188]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.43.44:944][188]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.43.45:564][218]Cmd: DELETE
+[2015.10.08-23.43.45:565][218]LogGeometryMode:Warning: Unable to find 1 Poly(s) in new BSP
+[2015.10.08-23.43.45:565][218]LogGeometryMode:Warning: Unable to resolve BoxBrush11 Brush in new BSP, see above
+[2015.10.08-23.43.45:565][218]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2015.10.08-23.43.45:693][219]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.43.45:693][219]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.43.45:693][219]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.43.45:693][219]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.43.46:697][282]Cmd: TRANSACTION UNDO
+[2015.10.08-23.43.46:697][282]LogEditorTransaction: Undo Modifier [Delete]
+[2015.10.08-23.43.46:727][282]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.CurvedStairBrush2.BrushComponent0) Component already registered.
+[2015.10.08-23.43.46:752][282]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush30_66.BrushComponent0) Component already registered.
+[2015.10.08-23.43.46:796][282]LogMaterial: Missing cached shader map for material WhiteBox, compiling. 
+[2015.10.08-23.43.46:802][282]LogMaterial: 0.000054 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.43.46:805][282]LogMaterial: Missing cached shader map for material GreyBox, compiling. 
+[2015.10.08-23.43.46:812][282]LogMaterial: 0.000101 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.43.46:817][282]LogMaterial: Missing cached shader map for material GreyBoxHole, compiling. 
+[2015.10.08-23.43.46:827][282]LogMaterial: 0.000076 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.43.47:198][302]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush11)
+[2015.10.08-23.43.47:396][310]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.43.47:396][310]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.43.47:396][310]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.43.47:396][310]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.43.47:795][328]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.43.47:795][328]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.43.47:795][328]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.43.47:795][328]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.43.48:461][359]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.43.48:461][359]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.43.48:461][359]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.43.48:461][359]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.43.49:080][396]Cmd: DELETE
+[2015.10.08-23.43.49:081][396]LogGeometryMode:Warning: Unable to find 1 Poly(s) in new BSP
+[2015.10.08-23.43.49:081][396]LogGeometryMode:Warning: Unable to resolve BoxBrush11 Brush in new BSP, see above
+[2015.10.08-23.43.49:081][396]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2015.10.08-23.43.52:282][705]Cmd: DELETE
+[2015.10.08-23.43.52:374][705]Cmd: ACTOR DELETE
+[2015.10.08-23.43.52:378][705]LogEditorActor: Deleted Actor: Brush
+[2015.10.08-23.43.52:476][705]LogEditorActor: Deleted 1 Actors (0.101 secs)
+[2015.10.08-23.43.56:300][139]Cmd: EDIT COPY
+[2015.10.08-23.43.56:691][181]Cmd: EDIT PASTE
+[2015.10.08-23.43.57:030][181]Cmd: ACTOR SELECT ALL
+[2015.10.08-23.43.57:617][194]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2015.10.08-23.43.59:132][272]Cmd: SELECT NONE
+[2015.10.08-23.44.02:275][588]Cmd: EDIT COPY
+[2015.10.08-23.44.02:593][617]Cmd: EDIT PASTE
+[2015.10.08-23.44.25:596][817]Cmd: TRANSACTION UNDO
+[2015.10.08-23.44.25:596][817]LogEditorTransaction: Undo Modifier [Edit]
+[2015.10.08-23.44.25:611][817]LogMaterial: Missing cached shader map for material WhiteBox, compiling. 
+[2015.10.08-23.44.25:617][817]LogMaterial: 0.000061 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.44.25:621][817]LogMaterial: Missing cached shader map for material GreyBox, compiling. 
+[2015.10.08-23.44.25:628][817]LogMaterial: 0.000077 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.44.25:634][817]LogMaterial: Missing cached shader map for material GreyBoxHole, compiling. 
+[2015.10.08-23.44.25:650][817]LogMaterial: 0.000120 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.44.26:628][871]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.44.26:628][871]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.44.26:628][871]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.44.26:628][871]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.44.27:110][893]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.44.27:110][893]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.44.27:111][893]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.44.27:111][893]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.44.27:737][924]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.44.27:737][924]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.44.27:737][924]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.44.27:737][924]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.44.30:897][211]Cmd: DELETE
+[2015.10.08-23.44.30:982][211]Cmd: ACTOR DELETE
+[2015.10.08-23.44.30:984][211]LogEditorActor: Deleted Actor: Brush
+[2015.10.08-23.44.31:081][211]LogEditorActor: Deleted 1 Actors (0.099 secs)
+[2015.10.08-23.44.35:581][668]LogGeometryMode:Warning: Unable to find BoxBrush24 Brush(s) in new BSP
+[2015.10.08-23.44.35:581][668]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2015.10.08-23.44.38:467][961]Cmd: EDIT COPY
+[2015.10.08-23.44.38:830][995]Cmd: EDIT PASTE
+[2015.10.08-23.45.22:929][239]LogGeometryMode:Warning: Unable to find BoxBrush15_51 Brush(s) in new BSP
+[2015.10.08-23.45.22:929][239]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2015.10.08-23.45.30:908][ 71]Cmd: EDIT COPY
+[2015.10.08-23.45.31:286][100]Cmd: EDIT PASTE
+[2015.10.08-23.46.20:693][916]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2015.10.08-23.48.00:061][772]LogGeometryMode:Warning: Unable to find BoxBrush42 Brush(s) in new BSP
+[2015.10.08-23.48.00:061][772]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2015.10.08-23.48.15:376][387]Cmd: TRANSACTION UNDO
+[2015.10.08-23.48.15:377][387]LogEditorTransaction: Undo Move Actors
+[2015.10.08-23.48.15:395][387]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush19.BrushComponent0) Component already registered.
+[2015.10.08-23.48.15:396][387]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush13.BrushComponent0) Component already registered.
+[2015.10.08-23.48.15:396][387]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush24.BrushComponent0) Component already registered.
+[2015.10.08-23.48.15:396][387]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2015.10.08-23.48.15:419][387]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush7.BrushComponent0) Component already registered.
+[2015.10.08-23.48.15:420][387]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.CylinderBrush5.BrushComponent0) Component already registered.
+[2015.10.08-23.48.15:420][387]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2015.10.08-23.48.15:421][387]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush32_59.BrushComponent0) Component already registered.
+[2015.10.08-23.48.15:421][387]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush30_66.BrushComponent0) Component already registered.
+[2015.10.08-23.48.15:483][387]LogMaterial: Missing cached shader map for material WhiteBox, compiling. 
+[2015.10.08-23.48.15:489][387]LogMaterial: 0.000057 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.48.15:493][387]LogMaterial: Missing cached shader map for material GreyBox, compiling. 
+[2015.10.08-23.48.15:499][387]LogMaterial: 0.000068 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.48.15:504][387]LogMaterial: Missing cached shader map for material GreyBoxHole, compiling. 
+[2015.10.08-23.48.15:514][387]LogMaterial: 0.000186 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.48.16:056][415]Cmd: TRANSACTION UNDO
+[2015.10.08-23.48.16:056][415]LogEditorTransaction: Undo Move Actors
+[2015.10.08-23.48.16:107][415]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush19.BrushComponent0) Component already registered.
+[2015.10.08-23.48.16:107][415]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush13.BrushComponent0) Component already registered.
+[2015.10.08-23.48.16:108][415]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush24.BrushComponent0) Component already registered.
+[2015.10.08-23.48.16:109][415]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2015.10.08-23.48.16:146][415]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush7.BrushComponent0) Component already registered.
+[2015.10.08-23.48.16:148][415]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.CylinderBrush5.BrushComponent0) Component already registered.
+[2015.10.08-23.48.16:149][415]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2015.10.08-23.48.16:149][415]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush32_59.BrushComponent0) Component already registered.
+[2015.10.08-23.48.16:149][415]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush30_66.BrushComponent0) Component already registered.
+[2015.10.08-23.48.16:250][415]LogMaterial: Missing cached shader map for material WhiteBox, compiling. 
+[2015.10.08-23.48.16:259][415]LogMaterial: 0.000047 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.48.16:265][415]LogMaterial: Missing cached shader map for material GreyBox, compiling. 
+[2015.10.08-23.48.16:273][415]LogMaterial: 0.000039 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.48.16:281][415]LogMaterial: Missing cached shader map for material GreyBoxHole, compiling. 
+[2015.10.08-23.48.16:298][415]LogMaterial: 0.000590 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.48.16:500][425]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.48.16:500][425]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.48.16:500][425]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.48.16:500][425]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.48.17:362][465]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.48.17:362][465]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.48.17:362][465]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.48.17:362][465]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.48.18:049][494]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.48.18:049][494]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.48.18:049][494]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.48.18:049][494]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.48.34:777][154]Cmd: TRANSACTION UNDO
+[2015.10.08-23.48.34:777][154]LogEditorTransaction: Undo Move Actors
+[2015.10.08-23.48.34:795][154]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush19.BrushComponent0) Component already registered.
+[2015.10.08-23.48.34:795][154]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush13.BrushComponent0) Component already registered.
+[2015.10.08-23.48.34:796][154]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush24.BrushComponent0) Component already registered.
+[2015.10.08-23.48.34:796][154]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2015.10.08-23.48.34:818][154]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush7.BrushComponent0) Component already registered.
+[2015.10.08-23.48.34:818][154]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.CylinderBrush5.BrushComponent0) Component already registered.
+[2015.10.08-23.48.34:819][154]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2015.10.08-23.48.34:819][154]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush32_59.BrushComponent0) Component already registered.
+[2015.10.08-23.48.34:819][154]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush30_66.BrushComponent0) Component already registered.
+[2015.10.08-23.48.34:884][154]LogMaterial: Missing cached shader map for material WhiteBox, compiling. 
+[2015.10.08-23.48.34:890][154]LogMaterial: 0.000057 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.48.34:894][154]LogMaterial: Missing cached shader map for material GreyBox, compiling. 
+[2015.10.08-23.48.34:900][154]LogMaterial: 0.000055 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.48.34:905][154]LogMaterial: Missing cached shader map for material GreyBoxHole, compiling. 
+[2015.10.08-23.48.34:915][154]LogMaterial: 0.000066 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.48.35:289][169]Cmd: TRANSACTION UNDO
+[2015.10.08-23.48.35:289][169]LogEditorTransaction: Undo Move Actors
+[2015.10.08-23.48.35:325][169]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush19.BrushComponent0) Component already registered.
+[2015.10.08-23.48.35:325][169]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush13.BrushComponent0) Component already registered.
+[2015.10.08-23.48.35:325][169]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush24.BrushComponent0) Component already registered.
+[2015.10.08-23.48.35:326][169]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2015.10.08-23.48.35:363][169]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush7.BrushComponent0) Component already registered.
+[2015.10.08-23.48.35:365][169]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.CylinderBrush5.BrushComponent0) Component already registered.
+[2015.10.08-23.48.35:366][169]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2015.10.08-23.48.35:367][169]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush32_59.BrushComponent0) Component already registered.
+[2015.10.08-23.48.35:367][169]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush30_66.BrushComponent0) Component already registered.
+[2015.10.08-23.48.35:463][169]LogMaterial: Missing cached shader map for material WhiteBox, compiling. 
+[2015.10.08-23.48.35:472][169]LogMaterial: 0.000042 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.48.35:482][169]LogMaterial: Missing cached shader map for material GreyBox, compiling. 
+[2015.10.08-23.48.35:491][169]LogMaterial: 0.000042 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.48.35:499][169]LogMaterial: Missing cached shader map for material GreyBoxHole, compiling. 
+[2015.10.08-23.48.35:514][169]LogMaterial: 0.000046 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.48.35:568][170]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.48.35:568][170]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.48.35:568][170]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.48.35:568][170]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.48.36:514][217]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.48.36:514][217]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.48.36:514][217]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.48.36:514][217]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.48.37:323][254]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.48.37:323][254]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.48.37:323][254]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.48.37:323][254]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.48.37:729][278]Cmd: TRANSACTION UNDO
+[2015.10.08-23.48.37:729][278]LogEditorTransaction: Undo Move Actors
+[2015.10.08-23.48.37:762][278]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush19.BrushComponent0) Component already registered.
+[2015.10.08-23.48.37:762][278]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush13.BrushComponent0) Component already registered.
+[2015.10.08-23.48.37:762][278]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush24.BrushComponent0) Component already registered.
+[2015.10.08-23.48.37:763][278]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2015.10.08-23.48.37:787][278]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush7.BrushComponent0) Component already registered.
+[2015.10.08-23.48.37:788][278]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.CylinderBrush5.BrushComponent0) Component already registered.
+[2015.10.08-23.48.37:788][278]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2015.10.08-23.48.37:789][278]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush32_59.BrushComponent0) Component already registered.
+[2015.10.08-23.48.37:789][278]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush30_66.BrushComponent0) Component already registered.
+[2015.10.08-23.48.37:855][278]LogMaterial: Missing cached shader map for material WhiteBox, compiling. 
+[2015.10.08-23.48.37:861][278]LogMaterial: 0.000065 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.48.37:866][278]LogMaterial: Missing cached shader map for material GreyBox, compiling. 
+[2015.10.08-23.48.37:872][278]LogMaterial: 0.000063 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.48.37:878][278]LogMaterial: Missing cached shader map for material GreyBoxHole, compiling. 
+[2015.10.08-23.48.37:893][278]LogMaterial: 0.000095 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.48.38:503][307]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.48.38:503][307]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.48.38:503][307]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.48.38:503][307]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.48.38:900][323]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.48.38:900][323]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.48.38:900][323]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.48.38:900][323]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.48.39:539][355]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.48.39:539][355]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.48.39:540][355]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.48.39:540][355]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.49.03:739][774]LogGeometryMode:Warning: Unable to find BoxBrush23 Brush(s) in new BSP
+[2015.10.08-23.49.03:739][774]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2015.10.08-23.49.18:579][273]LogGeometryMode:Warning: Unable to find BoxBrush41_84 Brush(s) in new BSP
+[2015.10.08-23.49.18:579][273]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2015.10.08-23.49.49:151][335]LogGeometryMode:Warning: Unable to find BoxBrush42 Brush(s) in new BSP
+[2015.10.08-23.49.49:151][335]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2015.10.08-23.50.16:169][165]Cmd: EDIT COPY
+[2015.10.08-23.50.16:480][198]Cmd: EDIT PASTE
+[2015.10.08-23.50.22:427][793]Cmd: TRANSACTION UNDO
+[2015.10.08-23.50.22:427][793]LogEditorTransaction: Undo Move Actors
+[2015.10.08-23.50.22:447][793]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush20.BrushComponent0) Component already registered.
+[2015.10.08-23.50.22:448][793]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush16.BrushComponent0) Component already registered.
+[2015.10.08-23.50.22:470][793]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush12.BrushComponent0) Component already registered.
+[2015.10.08-23.50.22:471][793]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush6.BrushComponent0) Component already registered.
+[2015.10.08-23.50.22:471][793]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.CylinderBrush2.BrushComponent0) Component already registered.
+[2015.10.08-23.50.22:472][793]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.CylinderBrush6.BrushComponent0) Component already registered.
+[2015.10.08-23.50.22:472][793]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush32_59.BrushComponent0) Component already registered.
+[2015.10.08-23.50.22:472][793]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2015.10.08-23.50.22:540][793]LogMaterial: Missing cached shader map for material WhiteBox, compiling. 
+[2015.10.08-23.50.22:547][793]LogMaterial: 0.000063 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.50.22:551][793]LogMaterial: Missing cached shader map for material GreyBox, compiling. 
+[2015.10.08-23.50.22:557][793]LogMaterial: 0.000058 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.50.22:562][793]LogMaterial: Missing cached shader map for material GreyBoxHole, compiling. 
+[2015.10.08-23.50.22:577][793]LogMaterial: 0.000142 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.50.23:643][842]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.50.23:644][842]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.50.23:644][842]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.50.23:644][842]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.50.23:980][857]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.50.23:980][857]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.50.23:980][857]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.50.23:980][857]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.50.24:642][882]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.50.24:642][882]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.50.24:642][882]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.50.24:642][882]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.50.52:594][105]Cmd: EDIT COPY
+[2015.10.08-23.50.53:030][144]Cmd: EDIT PASTE
+[2015.10.08-23.51.54:834][169]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2015.10.08-23.51.54:834][169]PIE: New page: PIE session: MansionMap (Oct 8, 2015, 3:51:54 PM)
+[2015.10.08-23.51.54:835][169]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MansionMap
+[2015.10.08-23.51.54:886][169]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050929s)
+[2015.10.08-23.51.54:886][169]LogAIModule: Creating AISystem for world MansionMap
+[2015.10.08-23.51.54:886][169]LogPlayLevel: PIE: World Init took: (0.000630s)
+[2015.10.08-23.51.54:886][169]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MansionMap.MansionMap to /Game/Maps/UEDPIE_0_MansionMap.MansionMap (0.051772s)
+[2015.10.08-23.51.54:933][169]LogInit: XAudio2 using 'Speakers (Sound Blaster Audigy FX)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.10.08-23.51.54:935][169]LogInit: FAudioDevice initialized.
+[2015.10.08-23.51.54:967][169]LogWorld: Game class is 'GameMode'
+[2015.10.08-23.51.54:977][169]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MansionMap.MansionMap up for play (max tick rate 0) at 2015.10.08-19.51.54
+[2015.10.08-23.51.54:977][169]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_MansionMap.MansionMap:PersistentLevel.GameSession_5 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.10.08-23.51.54:977][169]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_MansionMap.MansionMap:PersistentLevel.GameNetworkManager_5 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.10.08-23.51.54:979][169]LogWorld: Bringing up level for play took: 0.007615
+[2015.10.08-23.51.54:981][169]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_MansionMap -0.417
+[2015.10.08-23.52.09:722][885]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000626E91C0
+[2015.10.08-23.52.20:724][  2]Cmd: EDIT COPY
+[2015.10.08-23.52.21:205][ 44]Cmd: EDIT PASTE
+[2015.10.08-23.54.46:843][705]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2015.10.08-23.55.21:854][275]Cmd: TRANSACTION UNDO
+[2015.10.08-23.55.21:854][275]LogEditorTransaction: Undo Modifier [Edit]
+[2015.10.08-23.55.21:866][275]LogMaterial: Missing cached shader map for material WhiteBox, compiling. 
+[2015.10.08-23.55.21:873][275]LogMaterial: 0.000056 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.55.21:879][275]LogMaterial: Missing cached shader map for material GreyBox, compiling. 
+[2015.10.08-23.55.21:886][275]LogMaterial: 0.000225 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.55.21:891][275]LogMaterial: Missing cached shader map for material GreyBoxHole, compiling. 
+[2015.10.08-23.55.21:902][275]LogMaterial: 0.000233 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.55.22:968][332]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.55.22:968][332]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.55.22:968][332]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.55.22:968][332]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.55.23:330][348]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.55.23:330][348]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.55.23:330][348]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.55.23:330][348]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.55.24:017][381]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.55.24:017][381]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.55.24:017][381]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.55.24:017][381]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.55.25:243][469]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2015.10.08-23.55.38:863][854]Cmd: EDIT COPY
+[2015.10.08-23.55.39:351][887]Cmd: EDIT PASTE
+[2015.10.08-23.56.10:943][ 33]Cmd: EDIT COPY
+[2015.10.08-23.56.11:253][ 66]Cmd: EDIT PASTE
+[2015.10.08-23.56.53:859][108]Cmd: TRANSACTION UNDO
+[2015.10.08-23.56.53:859][108]LogEditorTransaction: Undo Move Actors
+[2015.10.08-23.56.53:881][108]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush17.BrushComponent0) Component already registered.
+[2015.10.08-23.56.53:881][108]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2015.10.08-23.56.53:882][108]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush23.BrushComponent0) Component already registered.
+[2015.10.08-23.56.53:882][108]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush4.BrushComponent0) Component already registered.
+[2015.10.08-23.56.53:911][108]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.CurvedStairBrush.BrushComponent0) Component already registered.
+[2015.10.08-23.56.53:912][108]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush42.BrushComponent0) Component already registered.
+[2015.10.08-23.56.53:912][108]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.LinearStairBrush.BrushComponent0) Component already registered.
+[2015.10.08-23.56.53:913][108]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush28.BrushComponent0) Component already registered.
+[2015.10.08-23.56.53:913][108]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush35.BrushComponent0) Component already registered.
+[2015.10.08-23.56.53:913][108]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush38.BrushComponent0) Component already registered.
+[2015.10.08-23.56.53:990][108]LogMaterial: Missing cached shader map for material WhiteBox, compiling. 
+[2015.10.08-23.56.53:996][108]LogMaterial: 0.000070 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.56.54:000][108]LogMaterial: Missing cached shader map for material GreyBox, compiling. 
+[2015.10.08-23.56.54:007][108]LogMaterial: 0.000073 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.56.54:012][108]LogMaterial: Missing cached shader map for material GreyBoxHole, compiling. 
+[2015.10.08-23.56.54:022][108]LogMaterial: 0.000072 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.56.54:496][133]Cmd: TRANSACTION UNDO
+[2015.10.08-23.56.54:496][133]LogEditorTransaction: Undo Scale Actors
+[2015.10.08-23.56.54:552][133]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush17.BrushComponent0) Component already registered.
+[2015.10.08-23.56.54:553][133]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2015.10.08-23.56.54:553][133]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush23.BrushComponent0) Component already registered.
+[2015.10.08-23.56.54:554][133]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush4.BrushComponent0) Component already registered.
+[2015.10.08-23.56.54:604][133]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.CurvedStairBrush.BrushComponent0) Component already registered.
+[2015.10.08-23.56.54:607][133]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush42.BrushComponent0) Component already registered.
+[2015.10.08-23.56.54:607][133]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.LinearStairBrush.BrushComponent0) Component already registered.
+[2015.10.08-23.56.54:608][133]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush28.BrushComponent0) Component already registered.
+[2015.10.08-23.56.54:608][133]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush35.BrushComponent0) Component already registered.
+[2015.10.08-23.56.54:608][133]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush38.BrushComponent0) Component already registered.
+[2015.10.08-23.56.54:738][133]LogMaterial: Missing cached shader map for material WhiteBox, compiling. 
+[2015.10.08-23.56.54:748][133]LogMaterial: 0.000043 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.56.54:755][133]LogMaterial: Missing cached shader map for material GreyBox, compiling. 
+[2015.10.08-23.56.54:764][133]LogMaterial: 0.000052 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.56.54:772][133]LogMaterial: Missing cached shader map for material GreyBoxHole, compiling. 
+[2015.10.08-23.56.54:788][133]LogMaterial: 0.000045 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.56.55:460][167]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.56.55:460][167]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.56.55:460][167]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.56.55:460][167]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.56.55:883][186]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.56.55:883][186]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.56.55:883][186]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.56.55:883][186]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.56.56:534][219]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.56.56:534][219]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.56.56:534][219]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.56.56:534][219]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.57.00:891][611]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2015.10.08-23.57.22:912][786]Cmd: TRANSACTION UNDO
+[2015.10.08-23.57.22:912][786]LogEditorTransaction: Undo Move Actors
+[2015.10.08-23.57.22:932][786]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush17.BrushComponent0) Component already registered.
+[2015.10.08-23.57.22:933][786]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2015.10.08-23.57.22:933][786]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush23.BrushComponent0) Component already registered.
+[2015.10.08-23.57.22:933][786]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush4.BrushComponent0) Component already registered.
+[2015.10.08-23.57.22:964][786]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.CurvedStairBrush.BrushComponent0) Component already registered.
+[2015.10.08-23.57.22:965][786]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush42.BrushComponent0) Component already registered.
+[2015.10.08-23.57.22:965][786]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.LinearStairBrush.BrushComponent0) Component already registered.
+[2015.10.08-23.57.22:966][786]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush28.BrushComponent0) Component already registered.
+[2015.10.08-23.57.22:966][786]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush35.BrushComponent0) Component already registered.
+[2015.10.08-23.57.22:966][786]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush38.BrushComponent0) Component already registered.
+[2015.10.08-23.57.23:031][786]LogGeometryMode:Warning: Unable to find 1 Poly(s) in new BSP
+[2015.10.08-23.57.23:031][786]LogGeometryMode:Warning: Unable to resolve BoxBrush47 Brush in new BSP, see above
+[2015.10.08-23.57.23:031][786]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2015.10.08-23.57.23:043][786]LogMaterial: Missing cached shader map for material WhiteBox, compiling. 
+[2015.10.08-23.57.23:049][786]LogMaterial: 0.000070 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.57.23:054][786]LogMaterial: Missing cached shader map for material GreyBox, compiling. 
+[2015.10.08-23.57.23:060][786]LogMaterial: 0.000067 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.57.23:065][786]LogMaterial: Missing cached shader map for material GreyBoxHole, compiling. 
+[2015.10.08-23.57.23:076][786]LogMaterial: 0.000079 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.57.24:080][835]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.57.24:080][835]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.57.24:080][835]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.57.24:080][835]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.57.24:543][856]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.57.24:543][856]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.57.24:543][856]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.57.24:543][856]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.57.25:240][888]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.57.25:240][888]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.57.25:240][888]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.57.25:240][888]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.57.28:609][149]Cmd: TRANSACTION UNDO
+[2015.10.08-23.57.28:609][149]LogEditorTransaction: Undo Move Actors
+[2015.10.08-23.57.28:631][149]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush17.BrushComponent0) Component already registered.
+[2015.10.08-23.57.28:631][149]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2015.10.08-23.57.28:632][149]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush23.BrushComponent0) Component already registered.
+[2015.10.08-23.57.28:632][149]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush4.BrushComponent0) Component already registered.
+[2015.10.08-23.57.28:661][149]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.CurvedStairBrush.BrushComponent0) Component already registered.
+[2015.10.08-23.57.28:663][149]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush42.BrushComponent0) Component already registered.
+[2015.10.08-23.57.28:663][149]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.LinearStairBrush.BrushComponent0) Component already registered.
+[2015.10.08-23.57.28:663][149]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush28.BrushComponent0) Component already registered.
+[2015.10.08-23.57.28:663][149]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush35.BrushComponent0) Component already registered.
+[2015.10.08-23.57.28:664][149]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/MansionMap.MansionMap:PersistentLevel.BoxBrush38.BrushComponent0) Component already registered.
+[2015.10.08-23.57.28:724][149]LogGeometryMode:Warning: Unable to find 1 Poly(s) in new BSP
+[2015.10.08-23.57.28:724][149]LogGeometryMode:Warning: Unable to resolve BoxBrush47 Brush in new BSP, see above
+[2015.10.08-23.57.28:724][149]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2015.10.08-23.57.28:751][149]LogMaterial: Missing cached shader map for material WhiteBox, compiling. 
+[2015.10.08-23.57.28:757][149]LogMaterial: 0.000073 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.57.28:762][149]LogMaterial: Missing cached shader map for material GreyBox, compiling. 
+[2015.10.08-23.57.28:768][149]LogMaterial: 0.000055 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.57.28:773][149]LogMaterial: Missing cached shader map for material GreyBoxHole, compiling. 
+[2015.10.08-23.57.28:783][149]LogMaterial: 0.000066 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.57.29:336][169]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.57.29:336][169]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.57.29:336][169]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.57.29:336][169]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.57.29:785][190]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.57.29:785][190]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.57.29:785][190]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.57.29:785][190]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.57.30:660][226]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2015.10.08-23.57.30:660][226]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 31 instructions
+[2015.10.08-23.57.30:660][226]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2015.10.08-23.57.30:660][226]MaterialEditorStats: Info Texture samplers: 2/16
+[2015.10.08-23.57.31:257][263]Cmd: EDCALLBACK SURFPROPS
+[2015.10.08-23.57.49:647][ 57]LogGeometryMode:Warning: Unable to find BoxBrush43 Brush(s) in new BSP
+[2015.10.08-23.57.49:647][ 57]LogGeometryMode:Warning: Unable to find all previously selected geometry data, resetting selection
+[2015.10.08-23.58.01:654][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MansionMap" FILE="../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/Maps/MansionMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2015.10.08-23.58.01:696][269]LogTexture:Display: Building textures: Texture2D_9 (BGRA8)
+[2015.10.08-23.58.01:959][269]LogSavePackage: Save=273.124786ms
+[2015.10.08-23.58.01:959][269]LogSavePackage: Moving '../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Saved/MansionMap6137CBD649582650DA50678CFD7FF36A.tmp' to '../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/Maps/MansionMap.umap'
+[2015.10.08-23.58.01:960][269]LogSavePackage: Total save time: 277.263585ms
+[2015.10.08-23.58.01:960][269]LogSavePackage:Warning: Finished SavePackage ../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/Maps/MansionMap.umap
+[2015.10.08-23.58.13:879][206]LogMaterial: Missing cached shader map for material WhiteBox, compiling. 
+[2015.10.08-23.58.13:902][206]LogMaterial: 0.000071 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.58.13:919][206]LogMaterial: Missing cached shader map for material WhiteBox, compiling. 
+[2015.10.08-23.58.13:982][206]LogMaterial: Missing cached shader map for material WhiteBox, compiling. 
+[2015.10.08-23.58.14:010][206]LogMaterial: 0.001567 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.58.15:858][206]LogMaterial: Missing cached shader map for material GreyBox, compiling. 
+[2015.10.08-23.58.15:895][206]LogMaterial: 0.000075 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.58.15:923][206]LogMaterial: Missing cached shader map for material GreyBox, compiling. 
+[2015.10.08-23.58.16:013][206]LogMaterial: Missing cached shader map for material GreyBox, compiling. 
+[2015.10.08-23.58.16:057][206]LogMaterial: 0.003511 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.58.17:741][206]LogMaterial: Missing cached shader map for material GreyBoxHole, compiling. 
+[2015.10.08-23.58.17:814][206]LogMaterial: 0.000091 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2015.10.08-23.58.17:850][206]LogMaterial: Missing cached shader map for material GreyBoxHole, compiling. 
+[2015.10.08-23.58.17:982][206]LogMaterial: Missing cached shader map for material GreyBoxHole, compiling. 
+[2015.10.08-23.58.18:057][206]LogMaterial: Missing cached shader map for material GreyBoxHole, compiling. 
+[2015.10.08-23.58.18:120][206]LogMaterial: 0.069471 seconds spent updating 1 materials, 1 interfaces, 6 instances, 1 with static permutations.
+[2015.10.08-23.58.22:768][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GreyBox" FILE="../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/GreyBox.uasset" SILENT=true
+[2015.10.08-23.58.22:799][206]LogSavePackage: Save=10.557028ms
+[2015.10.08-23.58.22:799][206]LogSavePackage: Moving '../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Saved/GreyBox6C67D19645763DB8284761AC3074399A.tmp' to '../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/GreyBox.uasset'
+[2015.10.08-23.58.22:801][206]LogSavePackage: Total save time: 13.461675ms
+[2015.10.08-23.58.22:801][206]LogSavePackage:Warning: Finished SavePackage ../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/GreyBox.uasset
+[2015.10.08-23.58.26:996][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GreyBoxHole" FILE="../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/GreyBoxHole.uasset" SILENT=true
+[2015.10.08-23.58.27:010][206]LogSavePackage: Save=12.108282ms
+[2015.10.08-23.58.27:010][206]LogSavePackage: Moving '../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Saved/GreyBoxHole3C39822344FA798E6DA6808014393411.tmp' to '../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/GreyBoxHole.uasset'
+[2015.10.08-23.58.27:012][206]LogSavePackage: Total save time: 14.646124ms
+[2015.10.08-23.58.27:012][206]LogSavePackage:Warning: Finished SavePackage ../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/GreyBoxHole.uasset
+[2015.10.08-23.58.27:033][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WhiteBox" FILE="../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/WhiteBox.uasset" SILENT=true
+[2015.10.08-23.58.27:048][206]LogSavePackage: Save=12.493462ms
+[2015.10.08-23.58.27:048][206]LogSavePackage: Moving '../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Saved/WhiteBoxDDB81C4D4A0DA196F1CDF8B772DBCEA7.tmp' to '../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/WhiteBox.uasset'
+[2015.10.08-23.58.27:049][206]LogSavePackage: Total save time: 14.972579ms
+[2015.10.08-23.58.27:049][206]LogSavePackage:Warning: Finished SavePackage ../../../../../../OctoberGJ/OctoberGameJam/OctoberJam/Content/WhiteBox.uasset
+[2015.10.08-23.58.27:762][207]Cmd: QUIT_EDITOR
+[2015.10.08-23.58.28:226][207]LogExit: Preparing to exit.
+[2015.10.08-23.58.29:336][207]LogExit: Editor shut down
+[2015.10.08-23.58.29:336][207]LogExit: Transaction tracking system shut down
+[2015.10.08-23.58.29:375][207]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000003B0F28E0
+[2015.10.08-23.58.29:376][207]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000121879C0
+[2015.10.08-23.58.29:377][207]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000114B2AC0
+[2015.10.08-23.58.29:377][207]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000021B8E5C0
+[2015.10.08-23.58.29:377][207]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000021B8E3E0
+[2015.10.08-23.58.29:396][207]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000114B16C0
+[2015.10.08-23.58.29:398][207]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000067CA9260
+[2015.10.08-23.58.29:992][207]LogExit: Object subsystem successfully closed.
+[2015.10.08-23.58.30:082][207]LogD3D11RHI: Shutdown
+[2015.10.08-23.58.30:082][207]LogD3D11RHI: CleanupD3DDevice
+[2015.10.08-23.58.30:162][207]LogD3D11RHI: ~FD3D11DynamicRHI
+[2015.10.08-23.58.30:515][207]LogModuleManager: Shutting down and abandoning module MaterialEditor (198)
+[2015.10.08-23.58.30:515][207]LogModuleManager: Shutting down and abandoning module CrashTracker (197)
+[2015.10.08-23.58.30:515][207]LogModuleManager: Shutting down and abandoning module SceneOutliner (196)
+[2015.10.08-23.58.30:516][207]LogModuleManager: Shutting down and abandoning module SuperSearch (195)
+[2015.10.08-23.58.30:516][207]LogModuleManager: Shutting down and abandoning module WidgetCarousel (194)
+[2015.10.08-23.58.30:516][207]LogModuleManager: Shutting down and abandoning module AddContentDialog (193)
+[2015.10.08-23.58.30:521][207]LogModuleManager: Shutting down and abandoning module EditorWidgets (192)
+[2015.10.08-23.58.30:521][207]LogModuleManager: Shutting down and abandoning module CollectionManager (191)
+[2015.10.08-23.58.30:522][207]LogModuleManager: Shutting down and abandoning module StatsViewer (190)
+[2015.10.08-23.58.30:522][207]LogModuleManager: Shutting down and abandoning module FoliageEdit (189)
+[2015.10.08-23.58.30:522][207]LogModuleManager: Shutting down and abandoning module LandscapeEditor (188)
+[2015.10.08-23.58.30:522][207]LogModuleManager: Shutting down and abandoning module ActorPickerMode (187)
+[2015.10.08-23.58.30:522][207]LogModuleManager: Shutting down and abandoning module GeometryMode (186)
+[2015.10.08-23.58.30:522][207]LogModuleManager: Shutting down and abandoning module TextureAlignMode (185)
+[2015.10.08-23.58.30:522][207]LogModuleManager: Shutting down and abandoning module BspMode (184)
+[2015.10.08-23.58.30:522][207]LogModuleManager: Shutting down and abandoning module PlacementMode (183)
+[2015.10.08-23.58.30:522][207]LogModuleManager: Shutting down and abandoning module AutomationWorker (182)
+[2015.10.08-23.58.30:522][207]LogModuleManager: Shutting down and abandoning module CharacterAI (181)
+[2015.10.08-23.58.30:522][207]LogModuleManager: Shutting down and abandoning module SmartSnapping (180)
+[2015.10.08-23.58.30:522][207]LogModuleManager: Shutting down and abandoning module ViewportSnapping (179)
+[2015.10.08-23.58.30:522][207]LogModuleManager: Shutting down and abandoning module LogVisualizer (178)
+[2015.10.08-23.58.30:522][207]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (177)
+[2015.10.08-23.58.30:527][207]LogModuleManager: Shutting down and abandoning module IntroTutorials (176)
+[2015.10.08-23.58.30:527][207]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (175)
+[2015.10.08-23.58.30:527][207]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (174)
+[2015.10.08-23.58.30:527][207]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (173)
+[2015.10.08-23.58.30:527][207]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (172)
+[2015.10.08-23.58.31:132][207]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (171)
+[2015.10.08-23.58.31:132][207]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (170)
+[2015.10.08-23.58.31:132][207]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (169)
+[2015.10.08-23.58.31:132][207]LogModuleManager: Shutting down and abandoning module MergeActors (168)
+[2015.10.08-23.58.31:151][207]LogModuleManager: Shutting down and abandoning module SizeMap (167)
+[2015.10.08-23.58.31:151][207]LogModuleManager: Shutting down and abandoning module TreeMap (166)
+[2015.10.08-23.58.31:151][207]LogModuleManager: Shutting down and abandoning module ReferenceViewer (165)
+[2015.10.08-23.58.31:151][207]LogModuleManager: Shutting down and abandoning module LocalizationService (164)
+[2015.10.08-23.58.31:152][207]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (163)
+[2015.10.08-23.58.31:173][207]LogModuleManager: Shutting down and abandoning module HardwareTargeting (162)
+[2015.10.08-23.58.31:173][207]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (161)
+[2015.10.08-23.58.31:173][207]LogModuleManager: Shutting down and abandoning module UndoHistory (160)
+[2015.10.08-23.58.31:173][207]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (159)
+[2015.10.08-23.58.31:173][207]LogModuleManager: Shutting down and abandoning module UserFeedback (158)
+[2015.10.08-23.58.31:173][207]LogModuleManager: Shutting down and abandoning module XmlParser (157)
+[2015.10.08-23.58.31:173][207]LogModuleManager: Shutting down and abandoning module Blutility (156)
+[2015.10.08-23.58.31:173][207]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (155)
+[2015.10.08-23.58.31:173][207]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (154)
+[2015.10.08-23.58.31:173][207]LogModuleManager: Shutting down and abandoning module InputBindingEditor (153)
+[2015.10.08-23.58.31:197][207]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (152)
+[2015.10.08-23.58.31:197][207]LogModuleManager: Shutting down and abandoning module SettingsEditor (151)
+[2015.10.08-23.58.31:197][207]LogModuleManager: Shutting down and abandoning module ProjectLauncher (150)
+[2015.10.08-23.58.31:197][207]LogModuleManager: Shutting down and abandoning module SessionFrontend (149)
+[2015.10.08-23.58.31:197][207]LogModuleManager: Shutting down and abandoning module ProfilerClient (148)
+[2015.10.08-23.58.31:215][207]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (147)
+[2015.10.08-23.58.31:215][207]LogModuleManager: Shutting down and abandoning module DeviceManager (146)
+[2015.10.08-23.58.31:215][207]LogModuleManager: Shutting down and abandoning module AutomationController (145)
+[2015.10.08-23.58.31:215][207]LogModuleManager: Shutting down and abandoning module AutomationWindow (144)
+[2015.10.08-23.58.31:237][207]LogModuleManager: Shutting down and abandoning module Layers (143)
+[2015.10.08-23.58.31:245][207]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (142)
+[2015.10.08-23.58.31:245][207]LogModuleManager: Shutting down and abandoning module DetailCustomizations (141)
+[2015.10.08-23.58.31:245][207]LogModuleManager: Shutting down and abandoning module PackagesDialog (140)
+[2015.10.08-23.58.31:245][207]LogModuleManager: Shutting down and abandoning module Persona (139)
+[2015.10.08-23.58.31:262][207]LogModuleManager: Shutting down and abandoning module Kismet (138)
+[2015.10.08-23.58.31:269][207]LogModuleManager: Shutting down and abandoning module GraphEditor (137)
+[2015.10.08-23.58.31:269][207]LogModuleManager: Shutting down and abandoning module ClassViewer (136)
+[2015.10.08-23.58.31:270][207]LogModuleManager: Shutting down and abandoning module Toolbox (135)
+[2015.10.08-23.58.31:270][207]LogModuleManager: Shutting down and abandoning module ModuleUI (134)
+[2015.10.08-23.58.31:290][207]LogModuleManager: Shutting down and abandoning module MovieSceneTools (133)
+[2015.10.08-23.58.31:290][207]LogModuleManager: Shutting down and abandoning module OutputLog (132)
+[2015.10.08-23.58.31:290][207]LogModuleManager: Shutting down and abandoning module GammaUI (131)
+[2015.10.08-23.58.31:295][207]LogModuleManager: Shutting down and abandoning module Documentation (130)
+[2015.10.08-23.58.31:295][207]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (129)
+[2015.10.08-23.58.31:295][207]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (128)
+[2015.10.08-23.58.31:295][207]LogModuleManager: Shutting down and abandoning module AnalyticsET (127)
+[2015.10.08-23.58.31:295][207]LogModuleManager: Shutting down and abandoning module Analytics (126)
+[2015.10.08-23.58.31:295][207]LogModuleManager: Shutting down and abandoning module AITestSuite (125)
+[2015.10.08-23.58.31:295][207]LogModuleManager: Shutting down and abandoning module GameplayDebugger (124)
+[2015.10.08-23.58.31:295][207]LogModuleManager: Shutting down and abandoning module AIModule (123)
+[2015.10.08-23.58.31:295][207]LogModuleManager: Shutting down and abandoning module ProfilerService (122)
+[2015.10.08-23.58.31:328][207]LogModuleManager: Shutting down and abandoning module TaskGraph (121)
+[2015.10.08-23.58.31:328][207]LogModuleManager: Shutting down and abandoning module SlateRemote (120)
+[2015.10.08-23.58.31:328][207]LogModuleManager: Shutting down and abandoning module SteamVRController (119)
+[2015.10.08-23.58.31:328][207]LogModuleManager: Shutting down and abandoning module SteamVR (118)
+[2015.10.08-23.58.31:328][207]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (117)
+[2015.10.08-23.58.31:328][207]LogModuleManager: Shutting down and abandoning module OculusRift (116)
+[2015.10.08-23.58.31:328][207]LogModuleManager: Shutting down and abandoning module OculusLibrary (115)
+[2015.10.08-23.58.31:328][207]LogModuleManager: Shutting down and abandoning module LeapMotionController (114)
+[2015.10.08-23.58.31:339][207]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (113)
+[2015.10.08-23.58.31:351][207]LogModuleManager: Shutting down and abandoning module CableComponent (112)
+[2015.10.08-23.58.31:351][207]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (111)
+[2015.10.08-23.58.31:351][207]LogModuleManager: Shutting down and abandoning module MessagingDebugger (110)
+[2015.10.08-23.58.31:365][207]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (109)
+[2015.10.08-23.58.31:378][207]LogModuleManager: Shutting down and abandoning module HTML5Networking (108)
+[2015.10.08-23.58.31:378][207]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (107)
+[2015.10.08-23.58.31:378][207]LogModuleManager: Shutting down and abandoning module PluginBrowser (106)
+[2015.10.08-23.58.31:379][207]LogModuleManager: Shutting down and abandoning module EpicSurvey (105)
+[2015.10.08-23.58.31:379][207]LogModuleManager: Shutting down and abandoning module DesktopPlatform (104)
+[2015.10.08-23.58.31:379][207]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (103)
+[2015.10.08-23.58.31:379][207]LogModuleManager: Shutting down and abandoning module UObjectPlugin (102)
+[2015.10.08-23.58.31:379][207]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (101)
+[2015.10.08-23.58.31:379][207]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (100)
+[2015.10.08-23.58.31:379][207]LogModuleManager: Shutting down and abandoning module SourceControl (99)
+[2015.10.08-23.58.31:379][207]LogModuleManager: Shutting down and abandoning module GitSourceControl (98)
+[2015.10.08-23.58.31:379][207]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (97)
+[2015.10.08-23.58.31:379][207]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (96)
+[2015.10.08-23.58.31:379][207]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (95)
+[2015.10.08-23.58.31:379][207]LogModuleManager: Shutting down and abandoning module MeshPaint (94)
+[2015.10.08-23.58.31:379][207]LogModuleManager: Shutting down and abandoning module SlateReflector (93)
+[2015.10.08-23.58.31:396][207]LogModuleManager: Shutting down and abandoning module HotReload (92)
+[2015.10.08-23.58.31:396][207]LogModuleManager: Shutting down and abandoning module MainFrame (91)
+[2015.10.08-23.58.31:397][207]LogModuleManager: Shutting down and abandoning module LevelEditor (90)
+[2015.10.08-23.58.31:397][207]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (89)
+[2015.10.08-23.58.31:398][207]LogModuleManager: Shutting down and abandoning module AssetRegistry (88)
+[2015.10.08-23.58.31:511][207]LogModuleManager: Shutting down and abandoning module ContentBrowser (87)
+[2015.10.08-23.58.31:512][207]LogModuleManager: Shutting down and abandoning module Paper2DEditor (86)
+[2015.10.08-23.58.31:525][207]LogModuleManager: Shutting down and abandoning module UdpMessaging (85)
+[2015.10.08-23.58.31:625][207]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (84)
+[2015.10.08-23.58.31:625][207]LogModuleManager: Shutting down and abandoning module Paper2D (83)
+[2015.10.08-23.58.31:625][207]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (82)
+[2015.10.08-23.58.31:639][207]LogModuleManager: Shutting down and abandoning module Media (81)
+[2015.10.08-23.58.31:639][207]LogModuleManager: Shutting down and abandoning module WmfMedia (80)
+[2015.10.08-23.58.31:640][207]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (79)
+[2015.10.08-23.58.31:640][207]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (78)
+[2015.10.08-23.58.31:640][207]LogModuleManager: Shutting down and abandoning module PropertyEditor (77)
+[2015.10.08-23.58.31:640][207]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (76)
+[2015.10.08-23.58.31:658][207]LogModuleManager: Shutting down and abandoning module FunctionalTesting (75)
+[2015.10.08-23.58.31:658][207]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (74)
+[2015.10.08-23.58.31:658][207]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (73)
+[2015.10.08-23.58.31:658][207]LogModuleManager: Shutting down and abandoning module MessageLog (72)
+[2015.10.08-23.58.31:658][207]LogModuleManager: Shutting down and abandoning module Sequencer (71)
+[2015.10.08-23.58.31:684][207]LogModuleManager: Shutting down and abandoning module AssetTools (70)
+[2015.10.08-23.58.31:706][207]LogModuleManager: Shutting down and abandoning module UMGEditor (69)
+[2015.10.08-23.58.31:707][207]LogModuleManager: Shutting down and abandoning module UMG (68)
+[2015.10.08-23.58.31:707][207]LogModuleManager: Shutting down and abandoning module Slate (67)
+[2015.10.08-23.58.31:707][207]LogModuleManager: Shutting down and abandoning module EditorStyle (66)
+[2015.10.08-23.58.31:708][207]LogModuleManager: Shutting down and abandoning module SessionServices (65)
+[2015.10.08-23.58.31:708][207]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (64)
+[2015.10.08-23.58.31:708][207]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (63)
+[2015.10.08-23.58.31:708][207]LogModuleManager: Shutting down and abandoning module XAudio2 (62)
+[2015.10.08-23.58.31:708][207]LogModuleManager: Shutting down and abandoning module Networking (60)
+[2015.10.08-23.58.31:708][207]LogModuleManager: Shutting down and abandoning module Core (59)
+[2015.10.08-23.58.31:708][207]LogModuleManager: Shutting down and abandoning module KismetCompiler (58)
+[2015.10.08-23.58.31:708][207]LogModuleManager: Shutting down and abandoning module PhysXFormats (57)
+[2015.10.08-23.58.31:708][207]LogModuleManager: Shutting down and abandoning module MeshUtilities (56)
+[2015.10.08-23.58.31:728][207]LogModuleManager: Shutting down and abandoning module CookingStats (55)
+[2015.10.08-23.58.31:768][207]LogModuleManager: Shutting down and abandoning module DerivedDataCache (54)
+[2015.10.08-23.58.31:810][207]LogDerivedDataCache: Shutdown
+[2015.10.08-23.58.31:810][207]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (53)
+[2015.10.08-23.58.31:823][207]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (52)
+[2015.10.08-23.58.31:823][207]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (51)
+[2015.10.08-23.58.31:848][207]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (50)
+[2015.10.08-23.58.31:848][207]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (49)
+[2015.10.08-23.58.31:848][207]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (48)
+[2015.10.08-23.58.31:848][207]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (47)
+[2015.10.08-23.58.31:848][207]LogModuleManager: Shutting down and abandoning module ImageWrapper (46)
+[2015.10.08-23.58.31:848][207]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (45)
+[2015.10.08-23.58.31:848][207]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (44)
+[2015.10.08-23.58.31:848][207]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (43)
+[2015.10.08-23.58.31:848][207]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (42)
+[2015.10.08-23.58.31:848][207]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (41)
+[2015.10.08-23.58.31:848][207]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (40)
+[2015.10.08-23.58.31:848][207]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (39)
+[2015.10.08-23.58.31:848][207]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (38)
+[2015.10.08-23.58.31:848][207]LogModuleManager: Shutting down and abandoning module Messaging (37)
+[2015.10.08-23.58.31:848][207]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (36)
+[2015.10.08-23.58.31:848][207]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (35)
+[2015.10.08-23.58.31:848][207]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (34)
+[2015.10.08-23.58.31:848][207]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (33)
+[2015.10.08-23.58.31:848][207]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (32)
+[2015.10.08-23.58.31:848][207]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (31)
+[2015.10.08-23.58.31:848][207]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (30)
+[2015.10.08-23.58.31:848][207]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (29)
+[2015.10.08-23.58.31:848][207]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (28)
+[2015.10.08-23.58.31:848][207]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (27)
+[2015.10.08-23.58.31:848][207]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (26)
+[2015.10.08-23.58.31:848][207]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (25)
+[2015.10.08-23.58.31:848][207]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (24)
+[2015.10.08-23.58.31:848][207]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (23)
+[2015.10.08-23.58.31:848][207]LogModuleManager: Shutting down and abandoning module TargetPlatform (22)
+[2015.10.08-23.58.31:848][207]LogModuleManager: Shutting down and abandoning module InputCore (21)
+[2015.10.08-23.58.31:848][207]LogModuleManager: Shutting down and abandoning module Settings (20)
+[2015.10.08-23.58.31:848][207]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2015.10.08-23.58.31:848][207]LogModuleManager: Shutting down and abandoning module HTTP (17)
+[2015.10.08-23.58.33:848][207]LogModuleManager: Shutting down and abandoning module XMPP (16)
+[2015.10.08-23.58.33:877][207]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (15)
+[2015.10.08-23.58.33:877][207]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2015.10.08-23.58.33:877][207]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2015.10.08-23.58.33:877][207]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2015.10.08-23.58.33:877][207]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2015.10.08-23.58.33:878][207]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2015.10.08-23.58.33:889][207]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2015.10.08-23.58.33:889][207]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2015.10.08-23.58.33:906][207]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2015.10.08-23.58.33:906][207]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2015.10.08-23.58.33:906][207]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2015.10.08-23.58.33:906][207]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2015.10.08-23.58.33:920][207]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2015.10.08-23.58.33:921][207]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2015.10.08-23.58.33:921][207]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2015.10.08-23.58.33:921][207]LogExit: Exiting.
+[2015.10.08-23.58.33:931][207]Log file closed, 10/08/15 19:58:33
