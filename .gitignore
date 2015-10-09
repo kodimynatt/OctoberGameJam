@@ -8,8 +8,8 @@ OctoberJam/Intermediate/*
 OctoberJam/DerivedDataCache/*
 
 # VS generated SDF files
-# *.sdf
-# *.opensdf
+ *.sdf
+ *.opensdf
 
 # Windows image file caches
 Thumbs.db
