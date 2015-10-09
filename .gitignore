@@ -7,8 +7,6 @@ OctoberJam/Intermediate/*
 # Cache files for the editor to use
 OctoberJam/DerivedDataCache/*
 
-# Binary Files
-OctoberJam/Binaries/*
 
 # Windows image file caches
 Thumbs.db
